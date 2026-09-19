@@ -1,0 +1,10 @@
+# 编译产物
+*.o
+*.so
+*.out
+
+01_vector_add/vector_add
+01_vector_add/vector_add_float4
+
+build/
+__pycache__/
